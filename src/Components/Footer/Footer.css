@@ -1,0 +1,22 @@
+.footer-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  
+    margin-top:50px ;
+  
+    background-color: black;
+    color: blanchedalmond;
+   
+}
+.contact-address{
+   /* text-align: center; */
+  margin-left: 200px;
+}
+
+.social-media{
+    align-items: center;
+}
+
+.social-media a{
+    margin-right: 30px;
+}

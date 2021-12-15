@@ -1,0 +1,25 @@
+
+.about-container{
+    border: 1px solid rgb(163, 162, 162);
+    width: 50%;
+    margin-left: 400px;
+    padding: 10px;
+    color: gray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.images-container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-left: 35px;
+    /* /* grid-gap: 10px; */
+}
+
+
+.images-container img{
+    width: 350px;
+}
+.video-container{
+    padding-left: 70px;
+}

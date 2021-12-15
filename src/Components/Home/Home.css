@@ -1,0 +1,37 @@
+
+.home-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100%
+}
+.popular-products{
+    display: grid;
+grid-template-columns: repeat(3,1fr);
+
+margin-left: 150px;
+margin-right: 150px;
+margin-top:20px;
+}
+
+
+.products-text{
+    text-align: center;
+    margin-top:100px;
+}
+
+.image-container{
+    display: flex;
+    background-color: rgb(22, 18, 18);
+    color: blanchedalmond;
+}
+.header-text{
+    margin-left: 100px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.image-container img{
+    width: 50%;
+    height: 400px;
+}

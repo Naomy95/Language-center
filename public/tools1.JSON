@@ -1,0 +1,10 @@
+[
+    {
+        "name":"Advanced C++","id":1, "price": 4000, "img":"https://cdnp3.stackassets.com/cc0a1fbaf22f328a745d3e88587742134297bc6f/store/opt/596/298/c9b311531815d9a1782a7531615d71a6e3095bb4245d63d247268138e9b3/product_35151_product_shot_wide.jpg"},
+    {
+        "name":"Python for Beginers","id":2, "price": 3000 , "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSJFcUBQlfDBR1Na0en83k_phQU-K1ADbWA&usqp=CAU"
+    },
+    {
+        "name":"Full Stack Web Development","id":3, "price": 5000,"img":"https://www.mindinventory.com/blog/wp-content/uploads/2018/07/full-stack1200.png"
+    }
+]
